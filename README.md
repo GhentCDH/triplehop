@@ -1,4 +1,4 @@
-# Front-end for TripleHop
+# TripleHop
 
 TripleHop is a platform that aims to facilitate collaborative research data creation and publication.
 
