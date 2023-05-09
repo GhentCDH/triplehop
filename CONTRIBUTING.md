@@ -4,4 +4,4 @@ We're really excited that you are interested in contributing to TripleHop. Pleas
 
 Documentation is currently severely lacking. Please contact <https://github.com/pdpotter> to get started.
 
-See the contributing guides of the [Front-end](https://github.com/GhentCDH/triplehop_frontend/blob/main/CONTRIBUTING.md) and [Back-end](https://github.com/GhentCDH/triplehop_backend/blob/main/CONTRIBUTING.md) for basic instructions on how to get started.
+See the contributing guides of the [Front-end](https://github.com/GhentCDH/triplehop_frontend/blob/main/CONTRIBUTING.md), [Back-end](https://github.com/GhentCDH/triplehop_backend/blob/main/CONTRIBUTING.md) and [Import Tools](https://github.com/GhentCDH/triplehop_import_tools/blob/main/CONTRIBUTING.md) for basic instructions on how to get started.
